@@ -71,9 +71,12 @@ void main() {
         printf("Error detected");
     else
         printf("No error detected");
+
+
+
 }
 
-## OUTPUT
+## 💻 OUTPUT
 ---
 <img width="724" height="358" alt="image" src="https://github.com/user-attachments/assets/d74fad42-1038-41a8-98c6-2620b8f28474" />
 
